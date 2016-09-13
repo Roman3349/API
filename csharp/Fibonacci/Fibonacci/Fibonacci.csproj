@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{F13F5890-347F-49FA-8166-49F61210252C}</ProjectGuid>
+    <ProjectGuid>{52B1DFC7-AC16-4629-B403-C5D6C3C7C3C9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Faktorial</RootNamespace>
-    <AssemblyName>Faktorial</AssemblyName>
+    <RootNamespace>Fibonacci</RootNamespace>
+    <AssemblyName>Fibonacci</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
